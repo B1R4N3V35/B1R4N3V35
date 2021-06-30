@@ -4,6 +4,14 @@ I'm a self taught developer since the 1980s. Software development is a very impo
 
 At present, I'm a Bachelor degree student in **Information Systems** at EACH-USP, São Paulo, Brazil. Beside that, I work in the commercial department of an awesome company - Geekie, and I'm proud to be part of this movement that intends to change Education in Brazil.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1R4N3V35&theme=default)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=B1R4N3V35&show_icons=true&theme=default)
+I'm also an enthusiast about free (as in "free speech"), open-source, software, but I don't have any kind of prejudice against proprietary solutions.
+
+## A little more about me
+
+- 👀 I’m interested in Data Science and Bioinformatics
+- 🌱 I’m currently learning Power BI
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1R4N3V35&theme=vue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=B1R4N3V35&show_icons=true&theme=vue)
 
