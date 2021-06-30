@@ -10,6 +10,13 @@ I'm also an enthusiast about free (as in "free speech"), open-source, software, 
 
 - 👀 I’m interested in Data Science and Bioinformatics
 - 🌱 I’m currently learning Power BI
+- 🎮 I love videogames, but the time is so short now... My favorite game is Minecraft!
+
+## Find me around the web! 🌎
+
+- **Twitter:** @biraneves
+- **Instagram:** biraneves
+- **LinkedIn:** [I also share contents here!](https://www.linkedin.com/in/ubirajara-neves/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1R4N3V35&theme=vue)
