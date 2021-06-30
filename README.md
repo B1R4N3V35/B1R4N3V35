@@ -14,8 +14,8 @@ I'm also an enthusiast about free (as in "free speech"), open-source, software, 
 
 ## Find me around the web! 🌎
 
-- **Twitter:** @biraneves
-- **Instagram:** biraneves
+- **Twitter:** [@biraneves](https://twitter.com/biraneves)
+- **Instagram:** [biraneves](https://instagram.com/biraneves)
 - **LinkedIn:** [I also share contents here!](https://www.linkedin.com/in/ubirajara-neves/)
 
 
