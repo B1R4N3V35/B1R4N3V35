@@ -12,6 +12,7 @@ I'm also an enthusiast about free (as in "free speech"), open-source, software, 
 
 - 👀 I’m interested in Data Science and Bioinformatics
 - 🌱 I’m currently learning Power BI
+- 📚 I'm a MBA student at PUC-RS, *Technology for business: AI, data science and big data
 - 🎮 I love videogames, but the time is so short now... My favorite game is Minecraft!
 
 ## Find me around the web! 🌎
