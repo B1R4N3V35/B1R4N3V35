@@ -15,6 +15,10 @@ I'm also an enthusiast about free (as in "free speech"), open-source, software, 
 - 📚 I'm an MBA student at PUC-RS, *Technology for business: AI, data science and big data*
 - 🎮 I love videogames, but the time is so short now... My favorite game is Minecraft!
 
+## My favorite technologies
+
+[<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]
+
 ## Find me around the web! 🌎
 
 - **Twitter:** [@biraneves](https://twitter.com/biraneves)
