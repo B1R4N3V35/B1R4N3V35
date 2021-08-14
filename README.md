@@ -1,4 +1,4 @@
-![Banner](http://professorbira.com/images/ubirajara-neves.png)
+![Banner](pictures/biraneves-github-banner.png)
 
 # Hi, I'm B1R4N3V35! 🖖🏻👨🏻‍💻
 
