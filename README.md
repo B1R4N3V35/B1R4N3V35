@@ -26,6 +26,6 @@ I'm also an enthusiast about free (as in "free speech"), open-source, software, 
 - **LinkedIn:** [I also share contents here!](https://www.linkedin.com/in/ubirajara-neves/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1R4N3V35&theme=vue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=B1R4N3V35&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biraneves&theme=vue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=biraneves&show_icons=true&theme=vue)
 
