@@ -17,7 +17,7 @@ I'm also an enthusiast about free (as in "free speech"), open-source, software, 
 
 ## My favorite technologies
 
-![Favorite Technologies](pictures/technology-icons-color-op.png)
+![Favorite Technologies](https://user-images.githubusercontent.com/83148400/165830891-787ef701-7ba4-4c3f-bba0-5db465d9c97b.png)
 
 ## Find me around the web! 🌎
 
