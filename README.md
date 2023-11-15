@@ -17,7 +17,7 @@ Also, I'm all about open-source software 💾, big on sharing knowledge and keep
 
 ## My favorite technologies
 
-![Favorite Technologies][[pictures/tecnologias-v3.png](https://github.com/biraneves/biraneves/blob/main/pictures/tecnologias-v3.png?raw=true)]
+![Favorite Technologies](pictures/tecnologias-v3.png](https://github.com/biraneves/biraneves/blob/main/pictures/tecnologias-v3.png?raw=true)
 
 ## Find me around the web! 🌎
 
