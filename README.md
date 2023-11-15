@@ -12,7 +12,7 @@ Also, I'm all about open-source software 💾, big on sharing knowledge and keep
 
 - 👀 I’m interested in Data Science and Bioinformatics
 - 🌱 I’m currently writing a big book about Microsoft Excel
-- 📚 I'm a graduation student at PUC Minas, *Bioinformatics applied to Health*
+- 📚 I'm a graduation student at PUC Minas (Brazil), *Bioinformatics applied to Health*
 - 🎮 I love videogames, but the time is so short now... My favorite game is Minecraft!
 
 ## My favorite technologies
