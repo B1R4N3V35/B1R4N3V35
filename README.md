@@ -11,8 +11,8 @@ Also, I'm all about open-source software 💾, big on sharing knowledge and keep
 ## A little more about me
 
 - 👀 I’m interested in Data Science and Bioinformatics
-- 🌱 I’m currently learning Power BI
-- 📚 I'm an MBA student at PUC-RS, *Technology for business: AI, data science and big data*
+- 🌱 I’m currently writing a big book about Microsoft Excel
+- 📚 I'm a graduation student at PUC Minas, *Bioinformatics applied to Health*
 - 🎮 I love videogames, but the time is so short now... My favorite game is Minecraft!
 
 ## My favorite technologies
