@@ -17,7 +17,7 @@ Also, I'm all about open-source software 💾, big on sharing knowledge and keep
 
 ## My favorite technologies
 
-![Favorite Technologies][pictures/technologies-v3.png]
+![Favorite Technologies][pictures/tecnologias-v3.png]
 
 ## Find me around the web! 🌎
 
