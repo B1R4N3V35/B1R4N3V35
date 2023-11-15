@@ -1,4 +1,4 @@
-![Banner](pictures/biraneves-github-banner.png)
+![Banner](pictures/github-banner.webp)
 
 # Hi, I'm Bira Neves! 🖖🏻👨🏻‍💻
 
