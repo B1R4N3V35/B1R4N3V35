@@ -2,11 +2,11 @@
 
 # Hi, I'm Bira Neves! 🖖🏻👨🏻‍💻
 
-I've been a self-taught developer 💻 since the 1980s. This era of intense technological evolution allowed me to refine my skills in the field of software development, which has been a fundamental part of my life. However, my background is quite diverse. In addition to programming, I'm also a Biologist 🧬 and a science teacher 👨‍🔬. This combination has granted me extensive experience in the educational realm, where I've been actively involved for a significant period.
+I started coding back in the 80s, riding the wave of tech evolution that let me sharpen my dev skills—a big part of who I am. But that's not all; I'm also into biology 🧬 and I teach science 👨‍🔬. Mixing these worlds has given me a unique edge in education, where I've been making an impact for quite some time.
 
-Currently, I am pursuing a bachelor's degree in Computer Science 🎓. Beyond my academic commitments, I work in pedagogical consultancy leadership at an innovative company named [Geekie](https://geekie.com.br). I take great pride in being part of this movement that aims to revolutionize Education in Brazil 🇧🇷, adding technology and innovation 💡 to learning processes.
+Right now, I'm working on my Computer Science degree 🎓. On the side, I'm leading the charge in educational consulting at a cool company called Geekie. We're all about shaking up Brazilian education by blending tech and fresh ideas into how people learn.
 
-Furthermore, I am an enthusiast of free and open-source software 💾, valuing the freedom of speech 🗣️ and knowledge exchange they provide. However, I maintain a balanced stance, devoid of prejudices against proprietary solutions, understanding that each system holds its own value and specific applications.
+Also, I'm all about open-source software 💾, big on sharing knowledge and keeping speech free 🗣️. But I keep it real and see the worth in proprietary stuff too—everything's got its place!
 
 ## A little more about me
 
