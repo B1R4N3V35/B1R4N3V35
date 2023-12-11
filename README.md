@@ -1,25 +1,25 @@
 ![Banner](pictures/github-banner.webp)
 
-# Hi, I'm Bira Neves! 🖖🏻👨🏻‍💻
+Ciao, sono Bira Neves! 🖖 👨🏻‍💻
 
-I started coding back in the 80s, riding the wave of tech evolution that let me sharpen my dev skills—a big part of who I am. But that's not all; I'm also into biology 🧬 and I teach science 👨‍🔬. Mixing these worlds has given me a unique edge in education, where I've been making an impact for quite some time.
+Ho iniziato a programmare negli anni '80, immergendomi nell'evoluzione tecnologica che ha affinato le mie competenze nello sviluppo software - una parte fondamentale di chi sono. Ma non è tutto; sono anche appassionato di biologia 🧬 e insegno scienze 👨‍🔬. Unire questi mondi mi ha dato un vantaggio unico nel campo dell'educazione, dove ho avuto un impatto significativo.
 
-Right now, I'm working on my Computer Science degree 🎓. On the side, I'm leading the charge in educational consulting at a cool company called Geekie. We're all about shaking up Brazilian education by blending tech and fresh ideas into how people learn.
+Attualmente, sto lavorando alla mia laurea in Scienze Informatiche 🎓. Nel frattempo, mi dedico alla consulenza educativa, portando avanti idee innovative.
 
-Also, I'm all about open-source software 💾, big on sharing knowledge and keeping speech free 🗣️. But I keep it real and see the worth in proprietary stuff too—everything's got its place!
+Sono anche un grande sostenitore del software open-source 💾, condividendo conoscenze e promuovendo la libertà di parola 🗣️. Riconosco il valore anche nel software proprietario - ogni cosa ha il suo posto!
 
-## A little more about me
+## Un po' di più su di me
 
-- 👀 I’m interested in Data Science and Bioinformatics
-- 🌱 I’m currently writing a big book about Microsoft Excel
-- 📚 I'm a graduation student at PUC Minas (Brazil), *Bioinformatics applied to Health*
-- 🎮 I love videogames, but the time is so short now... My favorite game is Minecraft!
+- 👀 Sono interessato alla Scienza dei Dati e alla Bioinformatica
+- 🌱 Attualmente sto scrivendo un grande libro su Microsoft Excel
+- 📚 Sono uno studente di specializzazione presso la PUC Minas (Brasile), Bioinformatica applicata alla Salute
+- 🎮 Amo i videogiochi, anche se ora il tempo è poco... Il mio gioco preferito è Minecraft!
 
-## My favorite technologies
+## Le mie tecnologie preferite
 
-![Favorite Technologies](pictures/tecnologias-v3.png)
+![Tecnologie Preferite](pictures/tecnologias-v3.png)
 
-## Find me around the web! 🌎
+## Trova me sul web! 🌎
 
 - **Twitter:** [@biraneves](https://twitter.com/biraneves)
 - **Instagram:** [biraneves](https://instagram.com/biraneves)
