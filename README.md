@@ -1,6 +1,6 @@
 ![Banner](pictures/github-banner.webp)
 
-Ciao, sono Bira Neves! 🖖 👨🏻‍💻
+# Ciao, sono Bira Neves! 🖖 👨🏻‍💻
 
 Ho iniziato a programmare negli anni '80, immergendomi nell'evoluzione tecnologica che ha affinato le mie competenze nello sviluppo software - una parte fondamentale di chi sono. Ma non è tutto; sono anche appassionato di biologia 🧬 e insegno scienze 👨‍🔬. Unire questi mondi mi ha dato un vantaggio unico nel campo dell'educazione, dove ho avuto un impatto significativo.
 
