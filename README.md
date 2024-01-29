@@ -1,4 +1,4 @@
-![Banner](pictures/github-banner.webp)
+![capa-github-bira](https://github.com/biraneves/biraneves/assets/83148400/b852a4c3-a76f-42cd-ab64-5adb16a1a259)
 
 # Ciao, sono Bira Neves! 🖖 👨🏻‍💻
 
