@@ -1,31 +1,29 @@
 ![capa-github-bira](https://github.com/biraneves/biraneves/assets/83148400/18c62115-ace1-4e94-88df-aee9e8d907e6)
 
-# Ciao, sono Bira Neves! 🖖 👨🏻‍💻
+# Hello, I'm Bira Neves! 🖖 👨🏻‍💻
 
-Ho iniziato a programmare negli anni '80, immergendomi nell'evoluzione tecnologica che ha affinato le mie competenze nello sviluppo software - una parte fondamentale di chi sono. Ma non è tutto; sono anche appassionato di biologia 🧬 e insegno scienze 👨‍🔬. Unire questi mondi mi ha dato un vantaggio unico nel campo dell'educazione, dove ho avuto un impatto significativo.
+I started programming in the '80s, diving into the technological evolution that honed my software development skills - a fundamental part of who I am. But that's not all; I am also passionate about biology 🧬 ans teaching science 👨‍🔬. Merging these worlds has given me a unique edge in the field of education, where I've made a significant impact.
 
-Attualmente, sto lavorando alla mia laurea in Scienze Informatiche 🎓. Nel frattempo, mi dedico alla consulenza educativa, portando avanti idee innovative.
+Currently, I'm working on my degree in Computer Science 🎓. In the meantime, I dedicate myself to educational consulting, bringing forward innovative ideas.
 
-Sono anche un grande sostenitore del software open-source 💾, condividendo conoscenze e promuovendo la libertà di parola 🗣️. Riconosco il valore anche nel software proprietario - ogni cosa ha il suo posto!
+I'm also a strong supporter of open-source software 💾, sharing knowledge and promoting free speech 🗣️. I recognize the value in proprietary software too - everything has its own place!
 
-## Un po' di più su di me
+## A bit more about me:
 
-- 👀 Sono interessato alla Scienza dei Dati e alla Bioinformatica
-- 🌱 Attualmente sto scrivendo un grande libro su Microsoft Excel
-- 📚 Sono uno studente di specializzazione presso la PUC Minas (Brasile), Bioinformatica applicata alla Salute
-- 🎮 Amo i videogiochi, anche se ora il tempo è poco... Il mio gioco preferito è Minecraft!
+-   👀 I'm also interested in Data Science
+-   🌱 I'm currently writing a comprehensive book on Microsoft Excel
+-   📚 I'm a student at EBAC, specializing in Frontend Engineering
+-   🎮 I love video games, although time is scarce... My favorite game is Minecraft!
 
-## Le mie tecnologie preferite
+## My favorite technologies
 
-![Tecnologie Preferite](pictures/tecnologias-v3.png)
+![Favorite Techonologies](pictures/tecnologias-v3.png)
 
-## Trova me sul web! 🌎
+## Find me on the web! 🌎
 
-- **Twitter:** [@biraneves](https://twitter.com/biraneves)
-- **Instagram:** [biraneves](https://instagram.com/biraneves)
-- **LinkedIn:** [I also share contents here!](https://www.linkedin.com/in/ubirajara-neves/)
-
+-   **Twitter:** [@biraneves](https://twitter.com/biraneves)
+-   **Instagram:** [biraneves](https://instagram.com/biraneves)
+-   **LinkedIn:** [I also share contents here!](https://www.linkedin.com/in/ubirajara-neves/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biraneves&theme=vue)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=biraneves&show_icons=true&theme=vue)
-
