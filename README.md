@@ -1,4 +1,4 @@
-![capa-github-bira](https://github.com/biraneves/biraneves/assets/83148400/18c62115-ace1-4e94-88df-aee9e8d907e6)
+![capa-github-bira](./pictures/biraneves-github-banner.png)
 
 # Hello, I'm Bira Neves! 🖖 👨🏻‍💻
 
@@ -17,7 +17,7 @@ I'm also a strong supporter of open-source software 💾, sharing knowledge and 
 
 ## My favorite technologies
 
-![Favorite Techonologies](pictures/tecnologias-v3.png)
+![Favorite Techonologies](pictures/tecnologias-v4.png)
 
 ## Find me on the web! 🌎
 
