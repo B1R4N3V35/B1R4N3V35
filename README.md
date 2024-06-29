@@ -12,7 +12,7 @@ I'm also a strong supporter of open-source software 💾, sharing knowledge and 
 
 -   👀 I'm also interested in Data Science
 -   🌱 I'm currently writing a comprehensive book on Microsoft Excel
--   📚 I'm a student at EBAC, specializing in Frontend Engineering
+-   📚 I'm a student at EBAC, specializing in Java Back-End Engineering
 -   🎮 I love video games, although time is scarce... My favorite game is Minecraft!
 
 ## My favorite technologies
