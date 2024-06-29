@@ -1,4 +1,4 @@
-![capa-github-bira](./pictures/capa-github-bira.jpg)
+![capa-github-bira](https://github.com/biraneves/biraneves/assets/83148400/2be2fb0e-750e-46d6-93fc-d256c16ef995)
 
 # Hello, I'm Bira Neves! 🖖 👨🏻‍💻
 
