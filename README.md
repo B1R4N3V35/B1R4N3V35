@@ -4,7 +4,7 @@
 
 I started programming in the '80s, diving into the technological evolution that honed my software development skills - a fundamental part of who I am. But that's not all; I am also passionate about biology 🧬 and teaching science 👨‍🔬. Merging these worlds has given me a unique edge in the field of education, where I've made a significant impact.
 
-Currently, I'm working on my degree in Computer Science 🎓. In the meantime, I dedicate myself to working on operations of an Australian fintech, bringing forward innovative ideas.
+Currently, I'm working on my degree in Computer Science 🎓. In the meantime, I am dedicated to working on operations for an Australian fintech, introducing innovative ideas.
 
 I'm also a strong supporter of open-source software 💾, sharing knowledge and promoting free speech 🗣️. I recognize the value in proprietary software too - everything has its own place!
 
