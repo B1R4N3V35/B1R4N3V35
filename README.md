@@ -17,7 +17,7 @@ I'm also a strong supporter of open-source software 💾, sharing knowledge and 
 
 ## My favorite technologies
 
-![Favorite Techonologies](pictures/tecnologias-v4.png)
+![tecnologias-v5](https://github.com/user-attachments/assets/8619af7a-0ed5-4592-b75e-00d3e7761f3f)
 
 ## Find me on the web! 🌎
 
